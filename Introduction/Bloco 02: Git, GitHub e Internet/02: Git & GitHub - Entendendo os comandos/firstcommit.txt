@@ -1,5 +1,7 @@
 - Unix
 - Bash
 - Git
+- React
+- Redux
 - HTML
 - CSS
