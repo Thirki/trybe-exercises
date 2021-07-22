@@ -1,0 +1,24 @@
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+}
+
+body {
+  font-size: 16px;
+}
+
+ul li {
+  background-color: red;
+}
+
+ul li:first-child{
+  background-color: yellow;
+}
+
+ul li:last-child{
+  background-color: brown;
+}
