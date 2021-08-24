@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Red+Hat+Display:ital@1&family=Roboto&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="all-web">
+    <form action=".">
+      <div class="choose-font">
+        <label for="fonts">Choose a font:</label>
+        <select id="fonts" name="fonts">
+          <option value="Open Sans">Open Sans</option>
+          <option value="Serif">Serif</option>
+          <option value="Roboto">Roboto</option>
+          <option value="Red Hat Display">Red Hat Display</option>
+        </select>
+        <p id="font-exemple">Esse é um exemplo de fonte</p>
+      </div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur voluptatibus doloribus quis dolores, soluta explicabo tenetur eaque minima sequi repudiandae, voluptates perspiciatis sit harum ut dolor suscipit vero odit rerum!</p>
+      <button id="submit-button" type="submit">Mudar font</button>
+    </form>
+    <div class="choose-color">
+      <div id="color-pallet">
+        <div class="color-1" style="background-color: #3d5a80;"></div>
+        <div class="color-2" style="background-color: #98c1d9;"></div>
+        <div class="color-3" style="background-color: #e0fbfc;"></div>
+        <div class="color-4" style="background-color: #ee6c4d;"></div>
+      </div>
+      <button id="submit-color">Mudar cor de fundo</button>
+    </div>
+    <div class="line-height-content">
+    <h1>Escolha o espaçamento</h1>
+      <div class="line-height">
+        <div class="line1">
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, sapiente?</p>
+        </div>
+        <div class="line2">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ullam!</p>
+        </div>
+        <div class="line3">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, voluptatibus.</p>
+        </div>
+      </div>
+      <button id="change-spacing">Mudar espaçamento</button>
+    </div>
+
+    <div id="font-size-container">
+      <input id="enter-the-word"placeholder="Digite o texto a ser exibido" maxlength="24">
+      <div id="fonts-list">
+        <div font-1><p>Aaa</p></div>
+        <div font-1><p>Bbb</p></div>
+        <div font-1><p>Ccc</p></div>
+      </div>
+      <button id="change-font-size">Mudar tamanho da fonte</button>
+    </div>
+
+    <div class="save-area">
+      <button id="save-storage" type="submit">Salvar estilo</button>
+    </div>
+  </div>
+<script src="script.js"></script>
+</body>
+</html>
