@@ -21,63 +21,63 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
     * [x] Introdução - Unix & Shell
     * [x] Unix & Bash - Parte 1
     * [x] Unix & Bash - Parte 2
-- [ ] Bloco 02: Git, GitHub e Internet
+- [x] Bloco 02: Git, GitHub e Internet
     * [x] Git & GitHub - O que é e para que serve
-    * [ ] Git & GitHub - Entendendo os comandos
-    * [ ] Internet - Entendendo como ela funciona
-- [ ] Bloco 03: Introdução à HTML e CSS
-    * [ ] Introdução - HTML & CSS
-    * [ ] HTML & CSS - Estruturas de página
-    * [ ] HTML & CSS - Primeiros passos em CSS
-    * [ ] HTML & CSS - Seletores e posicionamento
-    * [ ] HTML Semântico
-    * [ ] Projeto - Lessons Learned
-- [ ] Bloco 04: Introdução à JavaScript e Lógica de Programação
-    * [ ] Introdução - JavaScript e Primeiros passos
-    * [ ] JavaScript - Array e loop For
-    * [ ] JavaScript - Lógica de Programação e Algoritmos
-    * [ ] JavaScript - Objetos e funções
-    * [ ]  Projeto - Playground Functions
-- [ ] Bloco 05: JavaScript: DOM, Eventos e Web Storage
-    * [ ] JavaScript - DOM e seletores
-    * [ ] JavaScript - Trabalhando com elementos
-    * [ ] JavaScript - Eventos
-    * [ ] JavaScript - Web Storage
-    * [ ] Fundamentos - JavaScript - Projetos
-    * [ ] Projeto - Arte com Pixels
-    * [ ] Projeto - Lista de tarefas
-    * [ ] (Bônus) Projeto - Meme Generator
-    * [ ] (Bônus) Projeto - Adivinhe a Cor
-    * [ ] (Bônus) Projeto - Carta Misteriosa
-- [ ] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
-    * [ ] HTML & CSS - Forms
-    * [ ] Bibliotecas JavaScript e Frameworks CSS
-    * [ ] Introdução - CSS Flexbox
-    * [ ] CSS Flexbox - Parte 1
-    * [ ] CSS Flexbox - Parte 2
-    * [ ] CSS Responsivo - Mobile First
-    * [ ] Projeto - Trybewarts
-- [ ] Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
-    * [ ] JavaScript ES6 - let, const, arrow functions e template literals
-    * [ ] JavaScript ES6 - Objects
-    * [ ] Testes unitários em JavaScript
-    * [ ] Projeto - JavaScript Testes Unitários
-- [ ] Bloco 08: Higher Order Functions do JavaScript ES6
-    * [ ] JavaScript ES6 - Introdução a Higher Order Functions
-    * [ ] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-    * [ ] JavaScript ES6 - Higher Order Functions - map e filter
-    * [ ] JavaScript ES6 - Higher Order Functions - reduce
-    * [ ] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-    * [ ] Projeto - Zoo functions
-- [ ] Bloco 09: JavaScript Assíncrono e Promises
-    * [ ] 01: JavaScript Assíncrono e Callbacks
-    * [ ] 02: JavaScript Promises
-    * [ ] 03: Projeto - Carrinho de Compras
-- [ ] Bloco 10: Testes automatizados com Jest
-    * [ ] Primeiros passos no Jest
-    * [ ] Jest - Testes Assíncronos
-    * [ ] Jest - Simulando comportamentos
-    * [ ] Projeto - Jest Assíncrono e Mocking
+    * [x] Git & GitHub - Entendendo os comandos
+    * [x] Internet - Entendendo como ela funciona
+- [x] Bloco 03: Introdução à HTML e CSS
+    * [x] Introdução - HTML & CSS
+    * [x] HTML & CSS - Estruturas de página
+    * [x] HTML & CSS - Primeiros passos em CSS
+    * [x] HTML & CSS - Seletores e posicionamento
+    * [x] HTML Semântico
+    * [x] Projeto - Lessons Learned
+- [x] Bloco 04: Introdução à JavaScript e Lógica de Programação
+    * [x] Introdução - JavaScript e Primeiros passos
+    * [x] JavaScript - Array e loop For
+    * [x] JavaScript - Lógica de Programação e Algoritmos
+    * [x] JavaScript - Objetos e funções
+    * [x]  Projeto - Playground Functions
+- [x] Bloco 05: JavaScript: DOM, Eventos e Web Storage
+    * [x] JavaScript - DOM e seletores
+    * [x] JavaScript - Trabalhando com elementos
+    * [x] JavaScript - Eventos
+    * [x] JavaScript - Web Storage
+    * [x] Fundamentos - JavaScript - Projetos
+    * [x] Projeto - Arte com Pixels
+    * [x] Projeto - Lista de tarefas
+    * [x] (Bônus) Projeto - Meme Generator
+    * [x] (Bônus) Projeto - Adivinhe a Cor
+    * [x] (Bônus) Projeto - Carta Misteriosa
+- [x] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+    * [x] HTML & CSS - Forms
+    * [x] Bibliotecas JavaScript e Frameworks CSS
+    * [x] Introdução - CSS Flexbox
+    * [x] CSS Flexbox - Parte 1
+    * [x] CSS Flexbox - Parte 2
+    * [x] CSS Responsivo - Mobile First
+    * [x] Projeto - Trybewarts
+- [x] Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+    * [x] JavaScript ES6 - let, const, arrow functions e template literals
+    * [x] JavaScript ES6 - Objects
+    * [x] Testes unitários em JavaScript
+    * [x] Projeto - JavaScript Testes Unitários
+- [x] Bloco 08: Higher Order Functions do JavaScript ES6
+    * [x] JavaScript ES6 - Introdução a Higher Order Functions
+    * [x] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+    * [x] JavaScript ES6 - Higher Order Functions - map e filter
+    * [x] JavaScript ES6 - Higher Order Functions - reduce
+    * [x] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+    * [x] Projeto - Zoo functions
+- [x] Bloco 09: JavaScript Assíncrono e Promises
+    * [x] 01: JavaScript Assíncrono e Callbacks
+    * [x] 02: JavaScript Promises
+    * [x] 03: Projeto - Carrinho de Compras
+- [x] Bloco 10: Testes automatizados com Jest
+    * [x] Primeiros passos no Jest
+    * [x] Jest - Testes Assíncronos
+    * [x] Jest - Simulando comportamentos
+    * [x] Projeto - Jest Assíncrono e Mocking
 </details>
 
 <details>
